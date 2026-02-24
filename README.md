@@ -1,5 +1,4 @@
 # Excel-dahboard-projects
-sales_data.csv->dataset .
-sales_performance project_>dashboard.
-sales_performance project->cleaned dataset
+Sales performance Dashboard created using Microsft Excel.This dashboard uses pivot tables,charts,and data visualization techniques.
+
 
